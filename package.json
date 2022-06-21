@@ -1,0 +1,29 @@
+{
+  "name": "wb-keywords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glmn/wb-keywords.git"
+  },
+  "keywords": [
+    "wildberries",
+    "keywords",
+    "node",
+    "glmn"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glmn/wb-keywords/issues"
+  },
+  "homepage": "https://github.com/glmn/wb-keywords#readme",
+  "dependencies": {
+    "nedb": "^1.8.0",
+    "node-xlsx": "^0.21.0"
+  }
+}
